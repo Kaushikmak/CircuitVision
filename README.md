@@ -16,9 +16,9 @@
 
 
 Example:  
-![App Screenshot](screenshots\importImage.JPG)
-![App Screenshot](screenshots\main.JPG)
-![App Screenshot](screenshots\prediction.JPG)
+![App Screenshot](https://github.com/Kaushikmak/CircuitVision/blob/master/screenshots/main.JPG?raw=true)
+![App Screenshot](https://github.com/Kaushikmak/CircuitVision/blob/master/screenshots/prediction.JPG?raw=true)
+![App Screenshot](https://github.com/Kaushikmak/CircuitVision/blob/master/screenshots/importImage.JPG?raw=true)
 
 ## Getting Started
 
